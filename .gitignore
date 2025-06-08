@@ -1,0 +1,20 @@
+# Environments
+.venv
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data & Model Files
+*.csv
+*.pkl
+models/
+data/
+!data/prediction_log_template.csv
+
+# OS-specific
+.DS_Store
