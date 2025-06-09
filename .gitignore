@@ -11,8 +11,6 @@ __pycache__/
 
 # Data & Model Files
 *.csv
-*.pkl
-models/
 data/
 !data/prediction_log_template.csv
 
