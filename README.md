@@ -2,7 +2,7 @@
 
 A web application built with Streamlit that uses a machine learning model to predict the next day's price movement (Up or Down) for a given stock ticker. The app also provides a historical performance review of the model's recent predictions.
 
-**Live Demo:** ([https://your-app-url.streamlit.app/](https://practicestockpredictor.streamlit.app/))](https://practicestockpredictor.streamlit.app/) 
+**Live Demo:** (https://practicestockpredictor.streamlit.app/))](https://practicestockpredictor.streamlit.app/) 
 
 ![image](https://github.com/user-attachments/assets/ceb0f17b-349f-4a18-8a21-d2219dc4bd6a)
 
