@@ -8,7 +8,7 @@ A web application built with Streamlit that uses a machine learning model to pre
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
 - [Project Structure](#-project-structure)
