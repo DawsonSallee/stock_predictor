@@ -1,4 +1,4 @@
-# Stock Movement Predictor 📈
+# Stock Movement Predictor
 
 A web application built with Streamlit that uses a machine learning model to predict the next day's price movement (Up or Down) for a given stock ticker. The app also provides a historical performance review of the model's recent predictions.
 
@@ -19,7 +19,7 @@ A web application built with Streamlit that uses a machine learning model to pre
 
 ---
 
-## ✨ Features
+## Features
 
 - **Next-Day Prediction:** Enter any valid stock ticker to get a prediction for the next trading day's price movement (▲ UP or ▼ DOWN) along with the model's confidence.
 - **Historical Performance Review:** View a table of the model's performance over the last 10 days, showing the predicted movement, the actual outcome, and whether the prediction was correct.
@@ -29,7 +29,7 @@ A web application built with Streamlit that uses a machine learning model to pre
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python:** Core programming language.
 - **Streamlit:** For building the interactive web application UI.
@@ -41,7 +41,7 @@ A web application built with Streamlit that uses a machine learning model to pre
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is organized to separate the core logic from the application interface, following best practices.
 
@@ -60,7 +60,7 @@ stock_predictor/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 ### 1. Data Acquisition
 The app uses the `yfinance` library to download the last year of historical data for the user-specified stock ticker.
@@ -82,7 +82,7 @@ For the "Last 10 Days Performance Review," the application runs a historical sim
 
 ---
 
-## 🚀 Setup and Installation
+## Setup and Installation
 
 To run this project locally, follow these steps:
 
@@ -110,7 +110,7 @@ To run this project locally, follow these steps:
 
 ---
 
-## 🏃 Usage
+## Usage
 
 1.  **Run the Streamlit application:**
     ```bash
