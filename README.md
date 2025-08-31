@@ -121,7 +121,7 @@ To run this project locally, follow these steps:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - **More Advanced Models:** Experiment with more complex time-series models like LSTM or Gradient Boosting Machines (XGBoost).
 - **Expanded Feature Set:** Incorporate more advanced technical indicators or fundamental data.
